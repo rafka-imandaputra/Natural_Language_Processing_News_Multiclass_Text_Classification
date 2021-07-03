@@ -1,4 +1,4 @@
-# Natural_Language_Processing_News_Text_Multiclass_Classification
+# Natural_Language_Processing_News_Multiclass_Text_Classification
 Kode sumber ini adalah kode sumber yang digunakan untuk submission pertama saya di kelas Pengembangan Machine Learning di Dicoding Academy,
 
 Adapun dataset yang digunakan bersumber dari https://www.kaggle.com/kishanyadav/inshort-news dimana ini adalah dataset yang berisi mengenai 12.120 teks berita yang diberi 7 label berbeda seperti technology, sports, politics, entertainment, world, automobile, dan science.
